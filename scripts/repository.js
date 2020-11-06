@@ -3,34 +3,28 @@ var repository = (function () {
 
     var products = [{
         id: 1,
-        name: 'Final Fantasy XV',
+        name: 'Boruto: Naruto Next Generation',
         price: 55.99,
-        description: 'Final Fantasy finally makes a come back!',
-        category: 'Gaming'
+        description: 'Boruto is the sun of the 7th hokage who happens to be the savior of the konoha during the great ninja war.',
+        category: 'Anime'
     }, {
         id: 2,
-        name: 'Captain America: Civil War',
-        price: 19.99,
-        description: 'Even more Avengers!',
-        category: 'Movies'
+        name: 'Hunter X Hunter',
+        price: 58.99,
+        description: 'Gon was seeking for his father gin.',
+        category: 'Anime'
     }, {
         id: 3,
-        name: 'The Good, The Bad and The Ugly',
-        price: 9.99,
-        description: 'This timeless classic needs no description.',
-        category: 'Movies'
+        name: 'The Seven Deadly Sins',
+        price: 60.99,
+        description: 'Melodias is a half demon and the future demon king',
+        category: 'Anime'
     }, {
         id: 4,
-        name: 'J.K. Rowling - Fantastic Beasts and Where to Find Them',
-        price: 19.99,
-        description: 'Not Harry Potter.',
-        category: 'Books'
-    }, {
-        id: 5,
-        name: 'Fantastic Four',
-        price: 11.99,
-        description: 'Supposedly, a very bad movie.',
-        category: 'Movies'
+        name: 'Assasination Classroom',
+        price: 60.99,
+        description: 'The students only aim is to learn while trying to kill their teacher.',
+        category: 'Anime'
     }];
     
     return {
